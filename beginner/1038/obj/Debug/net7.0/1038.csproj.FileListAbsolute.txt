@@ -1,0 +1,15 @@
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.csproj.AssemblyReference.cache
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.AssemblyInfoInputs.cache
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.AssemblyInfo.cs
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.csproj.CoreCompileInputs.cache
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\bin\Debug\net7.0\1038.exe
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\bin\Debug\net7.0\1038.deps.json
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\bin\Debug\net7.0\1038.runtimeconfig.json
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\bin\Debug\net7.0\1038.dll
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\bin\Debug\net7.0\1038.pdb
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.dll
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\refint\1038.dll
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.pdb
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\1038.genruntimeconfig.cache
+C:\projetos\beecrowd\beecrowdSubmisionsCSHARP\beginner\1038\obj\Debug\net7.0\ref\1038.dll
